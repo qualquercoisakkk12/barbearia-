@@ -1,3 +1,8 @@
+
+body{
+     background-color: blueviolet;
+}
+
 h1{
     background: blueviolet;
 }
@@ -10,4 +15,11 @@ p {
 }
 em strong { 
     color:aqua; 
+}
+
+#missão{ 
+    font-size: 20px;
+}
+#banner {
+    width: 100%;
 }
